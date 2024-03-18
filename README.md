@@ -34,4 +34,4 @@
 - This project was based on concepts learned from Upgrad Machine Learning and Artificial Intelligence Course.
 
 ## Contact
-Created by [@mundhranishant] - feel free to contact me!
+Created by @mundhranishant - feel free to contact me!
